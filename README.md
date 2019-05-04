@@ -1,4 +1,4 @@
-# Teredo-IPV6-Fix
+# Windows-10-Teredo-IPV6-Fix
 Fairly reliable batch fix for when Teredo fails to qualify; preventing UWP apps from utilizing full online services à la, Xbox Live.
 
 Simply run the batch file, preferably as an administrator, and wait for it to finish. 
